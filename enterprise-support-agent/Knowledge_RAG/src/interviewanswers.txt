@@ -1,0 +1,2 @@
+I evaluated retrieval quality across different chunking strategies and top-k values, 
+then improved answer groundedness using source-aware prompting and reranking
